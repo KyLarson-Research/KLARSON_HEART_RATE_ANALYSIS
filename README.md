@@ -3,4 +3,6 @@ heartrate variability (Root Mean Square Difference between successive beats), me
 The input file comes from the QS application available for reading health data from apple watch on ios.
 The output file is generated as a .txt but, when renamed to .csv, is spreadsheet compatable. 
 License: GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
-Resources: https://www.whoop.com/thelocker/heart-rate-variability-hrv/ file:///C:/Users/admin/Downloads/fpubh-05-00258.pdf
+Resources: 
+https://www.whoop.com/thelocker/heart-rate-variability-hrv/ 
+file:///C:/Users/admin/Downloads/fpubh-05-00258.pdf
