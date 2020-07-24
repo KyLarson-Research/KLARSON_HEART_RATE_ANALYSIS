@@ -2,5 +2,5 @@
 heartrate variability (Root Mean Square Difference between successive beats), mean (arrithmatic sum/n aka average), and standard deviation (variance squared).
 The input file comes from the QS application available for reading health data from apple watch on ios.
 The output file is generated as a .txt but, when renamed to .csv, is spreadsheet compatable. 
-License: Proprietary
-(Statement: By using this software the user agrees not to copy, modify nor redistribute the work without written permission from the Author.")
+License: GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
+Resources: https://www.whoop.com/thelocker/heart-rate-variability-hrv/ file:///C:/Users/admin/Downloads/fpubh-05-00258.pdf
